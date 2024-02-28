@@ -1,6 +1,6 @@
 # Birb - AI Voice Assistant
 
-An AI Voice Assistant Promotional Website, Submission for The AI Odyssey organized by VVICTS.
+An AI Voice Assistant Promotional Website, Submission for The Sagacious’24 organized by ICTSPGCK
 
 - [Hosted URL](https://birb-sagacious24.netlify.app/)
 - [Figma Design](https://www.figma.com/file/pVLHlkEeHpW6WDTm4fBn6t/Birb---AI-Voice-Assistant?type=design&node-id=0%3A1&t=R9dgwuazF26d3Cqe-1)
