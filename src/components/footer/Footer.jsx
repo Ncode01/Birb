@@ -21,7 +21,7 @@ export default function Footer({ hide = false }) {
               <p>- Devices shown are Amazon Alexa Devices</p>
               <p>
                 - Project Repo on&nbsp;
-                <a href="#">Github</a>
+                <a href="https://github.com/Ncode01/Birb">Github</a>
               </p>
               <p>
                 - Project Design on&nbsp;
