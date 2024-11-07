@@ -50,7 +50,7 @@ export default function Footer({ hide = false }) {
       )}
 
       <div className="footer-last">
-        <p>Submission for The Sagacious’24 organized by ICTSPGCK</p>
+        <p>Submission for The Codex’24 organized by ITSRI</p>
         <p>
           Nadula Nisith <br />
           Royal College - Colombo 07 <br />
